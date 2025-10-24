@@ -21,7 +21,7 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           script: |
             cd /root/bots/psychotherapy
-            git pull origin main
+            git pull origin master
             source venv/bin/activate
             pip install -r requirements.txt
             sudo systemctl restart terapiya-bot
