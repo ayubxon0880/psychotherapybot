@@ -3,7 +3,7 @@ name: Terapiya.life bot CI/CD
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
