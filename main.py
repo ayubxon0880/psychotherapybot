@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-TOKEN = "8416375443:AAHWwcRI_LeaRkgdyPXpmBFLK_3glLjCzCU"
+TOKEN = "8265640028:AAFaFHPzkNh84pHKVCuZp0eW7Flm4TYzVnc"
 bot = telebot.TeleBot(TOKEN)
 
 GROUP_CHAT_ID = "-1002729050166"
