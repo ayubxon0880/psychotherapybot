@@ -8,7 +8,6 @@ GROUP_CHAT_ID = "-1002729050166"
 
 user_language = {}
 user_pending_question = {}
-
 translations = {
     'uz': {
         'choose_language': "Iltimos, tilni tanlang:\n\n🇷🇺 Русский\n🇺🇸 English",
